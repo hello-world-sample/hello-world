@@ -3,6 +3,5 @@
 microserviceRelease(
     app: 'hello-world',
     image: 'adamko034/hello-world',
-    namespace: 'hello-world-qa',
-    servicePort: 1234
+    namespace: 'hello-world-qa'
 )
